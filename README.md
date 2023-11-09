@@ -5,4 +5,4 @@ This is a project I am currently working on as a research assistant at Columbia 
 
 #### Mindmap for LLM test in sequential dilemma
 
-<img src="https://github.com/WeijianShi/Industry_Project_NLP/blob/main/images/Flowchart.jpg">
+<img src="https://github.com/WeijianShi/LLM_research/blob/main/images/Flowchart.jpg">
